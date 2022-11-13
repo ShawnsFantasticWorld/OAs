@@ -4,7 +4,7 @@
 
 > ###### **Difficulty Level : Medium**
 
-### **Q: Given an array A[ ] consisting of N strings, the task is to count the number of pairs of possible strings that on merging forms a Palindromic String or can be rearranged to form a Palindromic String. **
+### **Q: Given an array A[ ] consisting of N strings, the task is to count the number of pairs of possible strings that on merging forms a Palindromic String or can be rearranged to form a Palindromic String.**
 
 ### **Example :**
 
